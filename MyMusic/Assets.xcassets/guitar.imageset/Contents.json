@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "vecteezy_beautiful-vintage-electric-guitar-red-body-isolated-cutout_57563822.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
