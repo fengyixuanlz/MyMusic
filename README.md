@@ -1,5 +1,6 @@
 
-![Uploading Simulator Screenshot - iPhone 17 Pro - 2026-05-20 at 12.03.32.png…]()
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-20 at 12 03 32" src="https://github.com/user-attachments/assets/e698ef9b-8fe8-4669-a11d-c33ab0fd884e" />
+
 
 ## 🛠️ Tech Stack
 
