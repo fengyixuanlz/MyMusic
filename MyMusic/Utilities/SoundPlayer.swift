@@ -19,6 +19,8 @@ class SoundPlayer: NSObject {
 
     /// AVAudioPlayer　は　音声の流れを指示するだけです。video だめです
     /// ここは　cymbalPlayer　という　変数を　宣言してあります。
+    ///
+    /// ⚠️ 複数の音が重ねって混乱するのを防ぐため、AVAudioPlayerのobjectを一つだけ定義してあります。
     var player: AVAudioPlayer!
 
     func cymbalPlay() {
